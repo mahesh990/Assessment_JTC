@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-08T06:29:30Z" name="Default suite" finished-at="2021-04-08T06:29:38Z" duration-ms="8331">
+    <groups>
+    </groups>
+    <test started-at="2021-04-08T06:29:30Z" name="Default test" finished-at="2021-04-08T06:29:38Z" duration-ms="8331">
+      <class name="com.test.jtc.tests.GoogleSearchTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.test.jtc.tests.GoogleSearchTest@389c4eb1]" started-at="2021-04-08T11:59:30Z" name="setup" finished-at="2021-04-08T11:59:36Z" duration-ms="5824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyPageTitle()[pri:1, instance:com.test.jtc.tests.GoogleSearchTest@389c4eb1]" started-at="2021-04-08T11:59:36Z" name="verifyPageTitle" finished-at="2021-04-08T11:59:36Z" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageTitle -->
+        <test-method signature="googleSearch()[pri:2, instance:com.test.jtc.tests.GoogleSearchTest@389c4eb1]" started-at="2021-04-08T11:59:36Z" name="googleSearch" finished-at="2021-04-08T11:59:38Z" duration-ms="2478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleSearch -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.jtc.tests.GoogleSearchTest@389c4eb1]" started-at="2021-04-08T11:59:38Z" name="tearDown" finished-at="2021-04-08T11:59:38Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.jtc.tests.GoogleSearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
